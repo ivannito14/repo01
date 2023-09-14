@@ -31,6 +31,6 @@
 
 Podemos confirmar estos mismo haciendo un ``git remote -v`` , el cual no mostrará ningún destino.
 
-![❌Error❌](./images/Screenshot_6.png) 
+![❌Error❌](./images/Screenshot_6.png)
 
 Una vez en este punto vamos a crear un repositorio remoto el cual asociaremos a nuestro repositorio local.  
